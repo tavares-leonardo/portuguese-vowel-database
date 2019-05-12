@@ -1,13 +1,16 @@
-A simple portuguese vowel database of brazilian speakers
+A brazilian portuguese vowel database
 ========================================================
 
-This database was recorded using a Orange Pi.
+## Get started guide
 
-Main database features are:
+#### Clone this repository on your local computer
+
+```
+git clone https://github.com/tavares-leonardo/portuguese-vowel-database.git
+```
+
+#### Database features
 
   * Speakers: 35 male and 32 female 
-  * Frequency Sample: 8000 Hz
-
-Update
-------
+  * Frequency Sample: 16000 Hz
 
